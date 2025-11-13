@@ -1,13 +1,10 @@
 import requests
 import pandas as pd
 
-# ---- FILL THESE IN FROM YOUR STRAVA API PAGE ----
+# API VALUES FROM STRAVA SHOULD BE HERE (got rid of them for privacy purposeS)
 CLIENT_ID = ""
 CLIENT_SECRET = ""
 REFRESH_TOKEN = ""
-
-# -------------------------------------------------
-
 
 # Get access token
 token_resp = requests.post(
