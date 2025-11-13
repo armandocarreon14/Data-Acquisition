@@ -46,7 +46,7 @@ My final dataset includes:
 * I swim more than I thought, but most of my hours come from running.
 * My fastest paces aren’t always on the days I feel the best.
 * Elevation has a huge effect on pace.
-* Some months I’m super consistent, others not so much.
+* I’m the most consistent during September and October
 * My heart rate is much lower during swims compared to runs and rides.
 
 ## Further Resources
