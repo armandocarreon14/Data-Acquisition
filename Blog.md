@@ -1,4 +1,4 @@
-### Introduction / Motivation
+### Web Scraping to obtain a dataset of all your workouts from Strava
 
 I like to participate in triathlons and train for these competitions. I’m constantly swimming, running, and biking, and I usually keep track of my performance on each workout I complete through the app Strava to get a summary of each workout (how long I workedout for, distance, heart rate, a map of the distance I ran, elevation, etc). When I started this project, I honestly thought I’d have way more workouts recorded, but later i found out I've only have around 200 workouts recorded.
 
