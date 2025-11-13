@@ -1,6 +1,6 @@
 ### Introduction / Motivation
 
-I like to participate in triathlons and train for these competitions. I’m constantly swimming, running, and biking, and keeping track of my performance through the app Strava helps me understand how I’m doing. When I started this project, I honestly thought I’d have way more workouts recorded, but later i found out I've only have around 200 workouts recorded.
+I like to participate in triathlons and train for these competitions. I’m constantly swimming, running, and biking, and I usually keep track of my performance on each workout I complete through the app Strava to get a summary of each workout (how long I workedout for, distance, heart rate, a map of the distance I ran, elevation, etc). When I started this project, I honestly thought I’d have way more workouts recorded, but later i found out I've only have around 200 workouts recorded.
 
 I chose this topic because I wanted to take a deeper look at my training. I’ve never actually sat down and analyzed my performance with real data. This project gave me an excuse to pull everything from Strava and finally see patterns in how I train.
 
