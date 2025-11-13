@@ -56,4 +56,5 @@ My final dataset includes:
 
 ## Code Repository
 
-* Code Repository: [StravaWebScrapingGit.py]
+* Code Repository: [[StravaWebScrapingGit.py](https://github.com/armandocarreon14/Data-Acquisition.git)]
+* File Name: StravaWebScraping.py
