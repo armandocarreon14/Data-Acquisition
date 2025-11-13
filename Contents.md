@@ -1,5 +1,3 @@
-# Data-Acquisition
-
 # Web scraping file
 This file has the code I used to pull all my activities from the Strava API. It connects to my account, downloads the workouts, and then cleans the data so it’s easy to use. I used this as my main way of collecting and organizing my dataset.
 
